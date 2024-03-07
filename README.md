@@ -4,6 +4,7 @@ Welcome to GitBabie, your AI-powered companion designed to help you effortlessly
 GitBabie is built with the goal of making GitHub more accessible and less daunting, especially for those who are unfamiliar with the repositories they are exploring. By engaging in a friendly chat, you can uncover the insights and information hidden within any GitHub repository. From understanding code structure and finding documentation to discovering the most significant contributions and beyond, GitBabie is your go-to guide.
 
 **Key Features:**
+Note: It's recommended to only work with public repos.
 
 - Interactive Exploration: Engage in a conversation with GitBabie to learn about repository contents, structure, and more.
 
