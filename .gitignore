@@ -6,6 +6,7 @@ __pycache__/
 # my files
 llm_faiss_index/
 test_clone/
+repo_data/
 
 # C extensions
 *.so

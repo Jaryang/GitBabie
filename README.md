@@ -92,7 +92,7 @@ It's recommended to run this app in the virtual environment. For the basic setup
 The APP itself is only directly related to "Hello.py", and the "Pages" file. It's a multipage streamlit app, where the main page is controlled by Hello.py; the login page is controlled by 1_login_page.py; the chatting page is controlled by 2_chat_with_me.py. To run the app in the virtual environment, just do:
 
 ```
-venv/bin/python -m streamlit run github_repo_chatbot/Hello.py
+venv/bin/python -m streamlit run GitBabie/Hello.py
 ```
 
 #### 3.4 Start Your Chat
