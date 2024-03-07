@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# my files
+llm_faiss_index/
+test_clone/
+
 # C extensions
 *.so
 
